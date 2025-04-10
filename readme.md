@@ -1,0 +1,4 @@
+- `overall_viz.ipynb` would be the overall analysis from dataset
+- `perception.ipynb` would be the recommended approach based on our research
+- `images` folder contains image resources
+- `.csv` files are data source
